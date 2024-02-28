@@ -53,3 +53,4 @@ while True:
         break
     result = qa({"question": query})
     print(result['answer'])
+    
